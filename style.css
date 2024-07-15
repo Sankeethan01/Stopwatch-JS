@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:beige;
+}
+.box{
+    width: 8vw;
+    height: 8vh;
+    border: 2px solid black;
+    margin-left: 46vw;
+    margin-top: 15vh;
+}
+.watch{
+    width: 50vw;
+    height: 60vh;
+    border: 2px solid black;
+    margin-top: 5px;
+    margin-left: 25vw;
+    
+    text-align: center;
+}
+.num{
+  margin-top: 20vh;
+  font-size: 4em;
+}
+.button{
+    margin-top: 10px;
+    margin-left: 28vw;
+    width: 50vw;
+}
+.button button{
+    width: 15vw;
+    padding: 10px;
+    background-color: chocolate;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
